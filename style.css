@@ -1,0 +1,79 @@
+@media only screen and (max-width: 480px) and (max-width: 768px) {
+	body{
+		background: green;
+		font-family: 'Ubuntu', sans-serif;
+	}
+
+
+	#col2 {
+		clear:left;
+		border: 2px solid black;
+		position: relative;
+	}
+
+
+}
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+nav{
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:visited{
+	color:black;
+
+}
+
+#logo{
+	text-align: center;
+}
+.content{
+	max-width: 100%;
+
+}
+
+.content p{
+	text-align: justify;
+	padding: 0 8px 0 8px;
+}
+
+#col1{
+	width: 400px;
+	float: left;
+	margin-top: 25px;
+}
+
+#col1Img{
+	text-align: center;
+}
+
+#col2{
+	width: 400px;
+	margin-left: 500px;
+	position: relative;
+}
+
+#col2Img{
+	text-align: center;
+}
+
+#col1, #col2{
+	text-align: center;
+}
+
+footer{
+	
+}
+
+
+
